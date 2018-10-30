@@ -1,5 +1,5 @@
 # Face-Recognition
-Face Recognition : live face recognition using Python and OpenCV 
+Face Recognition : live face- recognition using Python and OpenCV 
 ## Database
 Database has been created using SQLite studio.
 [here](https://sqlitestudio.pl/index.rvt?act=download) is the link to download SQLite studio.
