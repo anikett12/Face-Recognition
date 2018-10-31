@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Recognition:
 Face Recognition : live face recognition using Python and OpenCV 
 ## Database
 Database has been created using SQLite studio.
